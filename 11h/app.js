@@ -1,6 +1,6 @@
-console.log("hello again");
+const a = 10;
 const objA = {
-  a: 10,
+  a,
   b: "abs",
 };
 
